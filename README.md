@@ -24,4 +24,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nurig?theme=light)
 
-[![Telegram Badge](https://img.shields.io/badge/-lastuhinanton-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/lastuhinanton)](https://t.me/lastuhinanton) [![Gmail Badge](https://img.shields.io/badge/-lastuhinanton74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lastuhinanton74@gmail.com)](mailto:lastuhinanton74@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-NuriG-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/flipiF)](https://t.me/flipiF) [![Gmail Badge](https://img.shields.io/badge/-shavaliev777@mail.ru-c14438?style=flat-square&logo=maildotru&logoColor=white&link=mailto:shavaliev777@mail.ru)](mailto:shavaliev777@mail.ru)
