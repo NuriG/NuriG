@@ -22,6 +22,6 @@
 
 ### Leetcode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nurig?theme=light&bg_color=DEG,47D0FF,97DAFD)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nurig?theme=light)
 
 [![Telegram Badge](https://img.shields.io/badge/-NuriG-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/flipiF)](https://t.me/flipiF) [![Gmail Badge](https://img.shields.io/badge/-shavaliev777@mail.ru-c14438?style=flat-square&logo=maildotru&logoColor=white&link=mailto:shavaliev777@mail.ru)](mailto:shavaliev777@mail.ru)
