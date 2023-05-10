@@ -8,7 +8,7 @@
 
 ![Duolingo](https://img.shields.io/badge/-duolingo-97DAFD?style=for-the-badge&logo=duolingo&logoColor=58CC02)
 
-![Kotlin](https://img.shields.io/badge/-kotlin-97DAFD?style=for-the-badge&logo=kotlin&logoColor=7F52FF&text_color=FFFFFF&text-color=FFFFFF) ![Bash](https://img.shields.io/badge/-Bash-97DAFD?style=for-the-badge&logo=gnubash&logoColor=#000000) ![JUnit](https://img.shields.io/badge/-Shell-97DAFD?style=for-the-badge&logo=powershell&logoColor=#5391FE) ![Network](https://img.shields.io/badge/Network-97DAFD?style=for-the-badge&logo=nintendonetwork&logoColor=0052CC) ![Cloud](https://img.shields.io/badge/-Cloud_Tech-97DAFD?style=for-the-badge&logo=icloud)
+![Kotlin](https://img.shields.io/badge/-kotlin-97DAFD?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![Bash](https://img.shields.io/badge/-Bash-97DAFD?style=for-the-badge&logo=gnubash&logoColor=#000000) ![JUnit](https://img.shields.io/badge/-Shell-97DAFD?style=for-the-badge&logo=powershell&logoColor=#5391FE) ![Network](https://img.shields.io/badge/Network-97DAFD?style=for-the-badge&logo=nintendonetwork&logoColor=0052CC) ![Cloud](https://img.shields.io/badge/-Cloud_Tech-97DAFD?style=for-the-badge&logo=icloud)
 
 ![Git](https://img.shields.io/badge/-GIT-97DAFD?style=for-the-badge&logo=GIT&logoColor=F88C00) ![Github](https://img.shields.io/badge/-Github-97DAFD?style=for-the-badge&logo=github&logoColor=181717) ![Gitlab](https://img.shields.io/badge/-gitlab-97DAFD?style=for-the-badge&logo=gitlab&logoColor=FC6D26) ![Bitbucket](https://img.shields.io/badge/-bitbucket-97DAFD?style=for-the-badge&logo=bitbucket&logoColor=0052CC)
 
@@ -22,6 +22,6 @@
 
 ### Leetcode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nurig?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nurig?theme=light&bg_color=DEG,47D0FF,97DAFD)
 
 [![Telegram Badge](https://img.shields.io/badge/-NuriG-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/flipiF)](https://t.me/flipiF) [![Gmail Badge](https://img.shields.io/badge/-shavaliev777@mail.ru-c14438?style=flat-square&logo=maildotru&logoColor=white&link=mailto:shavaliev777@mail.ru)](mailto:shavaliev777@mail.ru)
