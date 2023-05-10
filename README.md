@@ -20,6 +20,6 @@
 
 ### Leetcode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/NuriG?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/soundipromotion?theme=light)
 
 [![Telegram Badge](https://img.shields.io/badge/-lastuhinanton-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/lastuhinanton)](https://t.me/lastuhinanton) [![Gmail Badge](https://img.shields.io/badge/-lastuhinanton74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lastuhinanton74@gmail.com)](mailto:lastuhinanton74@gmail.com)
