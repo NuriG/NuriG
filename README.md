@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### I love DevOps!
+### I love C!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuriG&show_icons=true)
 
 ### Languages and tools
 
-![Duolingo](https://img.shields.io/badge/-duolingo-1E7775?style=for-the-badge&logo=duolingo&logoColor=58CC02)
+![Duolingo](https://img.shields.io/badge/-duolingo-FFBF3B?style=for-the-badge&logo=duolingo&logoColor=58CC02)
 
 ![Kotlin](https://img.shields.io/badge/-kotlin-1E7775?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000) ![JUnit](https://img.shields.io/badge/-Shell-1E7775?style=for-the-badge&logo=powershell&logoColor=#5391FE) ![Network](https://img.shields.io/badge/Network-1E7775?style=for-the-badge&logo=nintendonetwork&logoColor=0052CC) ![Cloud](https://img.shields.io/badge/-Cloud_Tech-1E7775?style=for-the-badge&logo=icloud)
 
