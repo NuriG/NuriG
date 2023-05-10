@@ -6,7 +6,7 @@
 
 ### Languages and tools
 
-![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000) ![JUnit](https://img.shields.io/badge/-Shell-1E7775?style=for-the-badge&logo=powershell&logoColor=#5391FE) ![Network](https://img.shields.io/badge/Network-1E7775?style=for-the-badge&logo=nintendonetwork&logoColor=0052CC) ![Cloud](https://img.shields.io/badge/-Cloud_Tech-1E7775?style=for-the-badge&logo=icloud)
+![Kotlin](https://img.shields.io/badge/-kotlin-1E7775?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000) ![JUnit](https://img.shields.io/badge/-Shell-1E7775?style=for-the-badge&logo=powershell&logoColor=#5391FE) ![Network](https://img.shields.io/badge/Network-1E7775?style=for-the-badge&logo=nintendonetwork&logoColor=0052CC) ![Cloud](https://img.shields.io/badge/-Cloud_Tech-1E7775?style=for-the-badge&logo=icloud)
 
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00) ![Github](https://img.shields.io/badge/-Github-1E7775?style=for-the-badge&logo=github&logoColor=181717) ![Gitlab](https://img.shields.io/badge/-gitlab-1E7775?style=for-the-badge&logo=gitlab&logoColor=FC6D26) ![Bitbucket](https://img.shields.io/badge/-bitbucket-1E7775?style=for-the-badge&logo=bitbucket&logoColor=0052CC)
 
