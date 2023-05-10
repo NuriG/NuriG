@@ -2,7 +2,7 @@
 
 ### I love C!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuriG&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuriG&show_icons=true&bg_color=DEG,CE6954,8B548C)
 
 ### Languages and tools
 
