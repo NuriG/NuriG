@@ -18,10 +18,4 @@
 
 ![Ansible](https://img.shields.io/badge/-ansible-97DAFD?style=for-the-badge&logo=ansible&logoColor=EE0000) ![Docker](https://img.shields.io/badge/-docker-97DAFD?style=for-the-badge&logo=docker&logoColor=2496ED) ![Jenkins](https://img.shields.io/badge/-jenkins-97DAFD?style=for-the-badge&logo=jenkins&logoColor=EE0000)
 
-![Python](https://img.shields.io/badge/-Python-97DAFD?style=for-the-badge&logo=python&logoColor=2496ED) ![C](https://img.shields.io/badge/-C-97DAFD?style=for-the-badge&logo=C&logoColor=6296CC) ![C++](https://img.shields.io/badge/-C++-97DAFD?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-
-### Leetcode Stats:
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/nurig?theme=light)
-
-[![Telegram Badge](https://img.shields.io/badge/-NuriG-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/flipiF)](https://t.me/flipiF) [![Gmail Badge](https://img.shields.io/badge/-shavaliev777@mail.ru-c14438?style=flat-square&logo=maildotru&logoColor=white&link=mailto:shavaliev777@mail.ru)](mailto:shavaliev777@mail.ru)
+![Python](https://img.shields.io/badge/-Python-97DAFD?style=for-the-badge&logo=python&logoColor=2496ED) ![C](https://img.shields.io/badge/-C-97DAFD?style=for-the-badge&logo=C&logoColor=6296CC) ![C++](https://img.shields.io/badge/-C++-97DAFD?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC
