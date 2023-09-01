@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I love C!
+### I love Kotlin!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuriG&show_icons=true&bg_color=DEG,47D0FF,97DAFD&border_radius=5&title_color=FFFFFF&text_color=FFFFFF&icon_color=425EE8)
 
